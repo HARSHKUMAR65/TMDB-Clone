@@ -1,6 +1,10 @@
+import React from 'react';
+import Home from './Pages/Home';
 const App = () => {
   return (
-    <h1 className="text-3xl font-bold text-center">Tailwind Setup</h1>
+    <>
+      <Home />
+    </>
   )
 }
 export default App;
