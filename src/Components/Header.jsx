@@ -12,7 +12,7 @@ const Header = () => {
       <nav className="bg-white border-gray-200 py-2.5 dark:bg-gray-900 border shadow-xl">
         <div className="flex flex-wrap items-center justify-between max-w-screen-xl px-4 mx-auto">
           <a href="#" className="flex items-center">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBUfDbZC_GxPwuV5U80Rl8ywF_mVJwyhLnmQ&s" className="h-6 mr-3 sm:h-9" alt="Logo" />
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9QkiOHRJee2cYhS3_MDkXObT_HqdfWRe5tg&s" className="h-6 mr-3 sm:h-9" alt="Logo" />
           </a>
           <div className="flex items-center lg:order-2">
             <button
