@@ -59,6 +59,7 @@ const SingleMovie = () => {
                     </div>
                 </div>
             </div>
+
         </>
     )
 };
